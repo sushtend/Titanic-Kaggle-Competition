@@ -18,6 +18,6 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 <li>Feature Scaling
 <li>Building Machine Learning Models
 <li>Using Ensemble method to fit the best model
-<li>Predict the test set
+<li>Predicting the test set
 
 You can download the data directly from <a href='https://www.kaggle.com/c/titanic'> Kaggle</a>.
